@@ -8,7 +8,7 @@ This is a progressive web app that allows you to track your budget. This was a h
 
 ## Installation
 
-Clone to your local machine and open in your favorite code editor to check it out! Or visit the deployed version at: [Budget Tracker PWA on Heroku](https://alexgignilliat.github.io/Weather-Dashboard/)
+Clone to your local machine and open in your favorite code editor to check it out! Or visit the deployed version at: [Budget Tracker PWA on Heroku](https://lit-shore-36959.herokuapp.com/)
 
 ## Technologies Utilized
 
